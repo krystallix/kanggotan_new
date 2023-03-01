@@ -1,1 +1,1 @@
-api_server = "https://api.kanggotan.id"
+api_server = "https://api-kanggotan.arkabyte.com"
